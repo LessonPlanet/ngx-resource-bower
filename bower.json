@@ -1,0 +1,8 @@
+{
+  "name": "ngx-resource",
+  "version": "0.0.3",
+  "main": "ngxResource.js",
+  "dependencies": {
+    "angular": "~1.0.0"
+  }
+}
